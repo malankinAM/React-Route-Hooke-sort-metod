@@ -1,6 +1,9 @@
 # React project
 
+ ## Мой проект в работе npm i  , npm start
+ 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
